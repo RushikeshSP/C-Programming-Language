@@ -1,0 +1,5 @@
+﻿  main.c
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_2_Arrays\Find_Union_And_Intersection_Of_Two_Arrays\Find_Union_And_Intersection_Of_Two_Arrays\main.c(16,52): warning C4101: 'arr_intersection': unreferenced local variable
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_2_Arrays\Find_Union_And_Intersection_Of_Two_Arrays\Find_Union_And_Intersection_Of_Two_Arrays\main.c(16,36): warning C4101: 'arr_union': unreferenced local variable
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_2_Arrays\Find_Union_And_Intersection_Of_Two_Arrays\Find_Union_And_Intersection_Of_Two_Arrays\main.c(16,75): warning C4101: 'n3': unreferenced local variable
+  Find_Union_And_Intersection_Of_Two_Arrays.vcxproj -> E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_2_Arrays\Find_Union_And_Intersection_Of_Two_Arrays\Debug\Find_Union_And_Intersection_Of_Two_Arrays.exe
