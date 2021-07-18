@@ -1,0 +1,3 @@
+﻿  main.c
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_3_Strings\Reverse_string_In_Some_Range_In_Same_String\Reverse_string_In_Some_Range_In_Same_String\main.c(45,7): warning C4013: 'exit' undefined; assuming extern returning int
+  Reverse_string_In_Some_Range_In_Same_String.vcxproj -> E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_3_Strings\Reverse_string_In_Some_Range_In_Same_String\Debug\Reverse_string_In_Some_Range_In_Same_String.exe

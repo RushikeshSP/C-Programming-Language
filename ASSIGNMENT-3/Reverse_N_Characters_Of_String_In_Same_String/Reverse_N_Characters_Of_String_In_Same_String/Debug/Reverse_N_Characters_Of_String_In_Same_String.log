@@ -1,0 +1,3 @@
+﻿  main.c
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_3_Strings\Reverse_N_Characters_Of_String_In_Same_String\Reverse_N_Characters_Of_String_In_Same_String\main.c(41,7): warning C4013: 'exit' undefined; assuming extern returning int
+  Reverse_N_Characters_Of_String_In_Same_String.vcxproj -> E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_3_Strings\Reverse_N_Characters_Of_String_In_Same_String\Debug\Reverse_N_Characters_Of_String_In_Same_String.exe
