@@ -1,0 +1,3 @@
+﻿  main.c
+E:\TECHNORBIT\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_7_2D_Arrays_Using_DMA\Check_Matrix_Is_Symmetric_Matrix_Or_Not\Check_Matrix_Is_Symmetric_Matrix_Or_Not\main.c(25,19): warning C4013: 'malloc' undefined; assuming extern returning int
+  Check_Matrix_Is_Symmetric_Matrix_Or_Not.vcxproj -> E:\TECHNORBIT\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_7_2D_Arrays_Using_DMA\Check_Matrix_Is_Symmetric_Matrix_Or_Not\Debug\Check_Matrix_Is_Symmetric_Matrix_Or_Not.exe
