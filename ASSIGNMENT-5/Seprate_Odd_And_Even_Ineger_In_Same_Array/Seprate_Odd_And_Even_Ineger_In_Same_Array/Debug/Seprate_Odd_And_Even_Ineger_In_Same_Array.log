@@ -1,0 +1,3 @@
+﻿  main.c
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Seprate_Odd_And_Even_Ineger_In_Same_Array\Seprate_Odd_And_Even_Ineger_In_Same_Array\main.c(24,18): warning C4013: 'malloc' undefined; assuming extern returning int
+  Seprate_Odd_And_Even_Ineger_In_Same_Array.vcxproj -> E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Seprate_Odd_And_Even_Ineger_In_Same_Array\Debug\Seprate_Odd_And_Even_Ineger_In_Same_Array.exe

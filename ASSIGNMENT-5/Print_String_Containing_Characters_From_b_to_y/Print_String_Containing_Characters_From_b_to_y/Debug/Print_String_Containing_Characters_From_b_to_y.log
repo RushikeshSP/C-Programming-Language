@@ -1,0 +1,10 @@
+﻿  main.c
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_Containing_Characters_From_b_to_y\Print_String_Containing_Characters_From_b_to_y\main.c(27,19): warning C4013: 'malloc' undefined; assuming extern returning int
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_Containing_Characters_From_b_to_y\Print_String_Containing_Characters_From_b_to_y\main.c(36,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_Containing_Characters_From_b_to_y\Print_String_Containing_Characters_From_b_to_y\main.c(36,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_Containing_Characters_From_b_to_y\Print_String_Containing_Characters_From_b_to_y\main.c(36,11): message : the missing variadic argument 2 is required by format string '%c'
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_Containing_Characters_From_b_to_y\Print_String_Containing_Characters_From_b_to_y\main.c(36,11): message : this argument is used as a buffer size
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_Containing_Characters_From_b_to_y\Print_String_Containing_Characters_From_b_to_y\main.c(39,22): warning C4013: 'realloc' undefined; assuming extern returning int
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_Containing_Characters_From_b_to_y\Print_String_Containing_Characters_From_b_to_y\main.c(68,6): warning C4013: 'free' undefined; assuming extern returning int
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_Containing_Characters_From_b_to_y\Print_String_Containing_Characters_From_b_to_y\main.c(21,6): warning C4101: 'n': unreferenced local variable
+  Print_String_Containing_Characters_From_b_to_y.vcxproj -> E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_Containing_Characters_From_b_to_y\Debug\Print_String_Containing_Characters_From_b_to_y.exe

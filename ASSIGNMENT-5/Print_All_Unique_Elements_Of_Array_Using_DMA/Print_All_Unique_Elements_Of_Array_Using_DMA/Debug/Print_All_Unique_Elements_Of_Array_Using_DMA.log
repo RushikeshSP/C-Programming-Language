@@ -1,0 +1,4 @@
+﻿  main.c
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_All_Unique_Elements_Of_Array_Using_DMA\Print_All_Unique_Elements_Of_Array_Using_DMA\main.c(26,18): warning C4013: 'malloc' undefined; assuming extern returning int
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_All_Unique_Elements_Of_Array_Using_DMA\Print_All_Unique_Elements_Of_Array_Using_DMA\main.c(69,6): warning C4013: 'free' undefined; assuming extern returning int
+  Print_All_Unique_Elements_Of_Array_Using_DMA.vcxproj -> E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_All_Unique_Elements_Of_Array_Using_DMA\Debug\Print_All_Unique_Elements_Of_Array_Using_DMA.exe

@@ -1,0 +1,3 @@
+﻿  main.c
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Sort_Only_Even_Numbers_In_Array_Using_DMA\Sort_Only_Even_Numbers_In_Array_Using_DMA\main.c(29,18): warning C4013: 'malloc' undefined; assuming extern returning int
+  Sort_Only_Even_Numbers_In_Array_Using_DMA.vcxproj -> E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Sort_Only_Even_Numbers_In_Array_Using_DMA\Debug\Sort_Only_Even_Numbers_In_Array_Using_DMA.exe

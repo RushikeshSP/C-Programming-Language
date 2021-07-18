@@ -1,0 +1,7 @@
+﻿  main.c
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_In_Reverse_Order_Using_DMA\Print_String_In_Reverse_Order_Using_DMA\main.c(35,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_In_Reverse_Order_Using_DMA\Print_String_In_Reverse_Order_Using_DMA\main.c(35,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_In_Reverse_Order_Using_DMA\Print_String_In_Reverse_Order_Using_DMA\main.c(35,11): message : the missing variadic argument 2 is required by format string '%c'
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_In_Reverse_Order_Using_DMA\Print_String_In_Reverse_Order_Using_DMA\main.c(35,11): message : this argument is used as a buffer size
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_In_Reverse_Order_Using_DMA\Print_String_In_Reverse_Order_Using_DMA\main.c(21,6): warning C4101: 'n': unreferenced local variable
+  Print_String_In_Reverse_Order_Using_DMA.vcxproj -> E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_String_In_Reverse_Order_Using_DMA\Debug\Print_String_In_Reverse_Order_Using_DMA.exe

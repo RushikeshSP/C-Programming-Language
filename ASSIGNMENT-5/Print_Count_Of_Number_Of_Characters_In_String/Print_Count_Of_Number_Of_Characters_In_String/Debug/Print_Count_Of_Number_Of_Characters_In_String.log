@@ -1,0 +1,7 @@
+﻿  main.c
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_Count_Of_Number_Of_Characters_In_String\Print_Count_Of_Number_Of_Characters_In_String\main.c(32,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_Count_Of_Number_Of_Characters_In_String\Print_Count_Of_Number_Of_Characters_In_String\main.c(32,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_Count_Of_Number_Of_Characters_In_String\Print_Count_Of_Number_Of_Characters_In_String\main.c(32,11): message : the missing variadic argument 2 is required by format string '%c'
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_Count_Of_Number_Of_Characters_In_String\Print_Count_Of_Number_Of_Characters_In_String\main.c(32,11): message : this argument is used as a buffer size
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_Count_Of_Number_Of_Characters_In_String\Print_Count_Of_Number_Of_Characters_In_String\main.c(18,6): warning C4101: 'n': unreferenced local variable
+  Print_Count_Of_Number_Of_Characters_In_String.vcxproj -> E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Print_Count_Of_Number_Of_Characters_In_String\Debug\Print_Count_Of_Number_Of_Characters_In_String.exe

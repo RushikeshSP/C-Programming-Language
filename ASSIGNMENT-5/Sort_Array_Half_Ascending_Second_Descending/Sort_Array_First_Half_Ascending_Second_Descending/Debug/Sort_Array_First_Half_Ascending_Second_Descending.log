@@ -1,0 +1,4 @@
+﻿  main.c
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Sort_Array_First_Half_Ascending_Second_Descending\Sort_Array_First_Half_Ascending_Second_Descending\main.c(25,18): warning C4013: 'malloc' undefined; assuming extern returning int
+E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Sort_Array_First_Half_Ascending_Second_Descending\Sort_Array_First_Half_Ascending_Second_Descending\main.c(73,6): warning C4013: 'free' undefined; assuming extern returning int
+  Sort_Array_First_Half_Ascending_Second_Descending.vcxproj -> E:\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT_5_DMA\Sort_Array_First_Half_Ascending_Second_Descending\Debug\Sort_Array_First_Half_Ascending_Second_Descending.exe
