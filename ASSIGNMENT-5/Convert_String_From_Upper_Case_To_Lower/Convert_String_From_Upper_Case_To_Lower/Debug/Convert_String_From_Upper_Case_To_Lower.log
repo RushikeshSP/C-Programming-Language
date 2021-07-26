@@ -1,0 +1,7 @@
+﻿  main.c
+E:\TECHNORBIT\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT-5\Convert_String_From_Upper_Case_To_Lower\Convert_String_From_Upper_Case_To_Lower\main.c(35,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\TECHNORBIT\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT-5\Convert_String_From_Upper_Case_To_Lower\Convert_String_From_Upper_Case_To_Lower\main.c(35,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\TECHNORBIT\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT-5\Convert_String_From_Upper_Case_To_Lower\Convert_String_From_Upper_Case_To_Lower\main.c(35,11): message : the missing variadic argument 2 is required by format string '%c'
+E:\TECHNORBIT\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT-5\Convert_String_From_Upper_Case_To_Lower\Convert_String_From_Upper_Case_To_Lower\main.c(35,11): message : this argument is used as a buffer size
+E:\TECHNORBIT\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT-5\Convert_String_From_Upper_Case_To_Lower\Convert_String_From_Upper_Case_To_Lower\main.c(21,6): warning C4101: 'n': unreferenced local variable
+  Convert_String_From_Upper_Case_To_Lower.vcxproj -> E:\TECHNORBIT\PPA9 - TECHNORBIT\C language\Assignments\ASSIGNMENT-5\Convert_String_From_Upper_Case_To_Lower\Debug\Convert_String_From_Upper_Case_To_Lower.exe
