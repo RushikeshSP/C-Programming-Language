@@ -36,6 +36,8 @@ There are also some extra programs are present in some assignments.
 
 In each assignment folder of this repository the question assignment pdf and the pdf of solved quesition also present.
 Each program is having it's name with it's problem statement. So that it helps to identify.
+
+gitignore file is added to ignore some extra visual studio sorce files and debug files.
 ...
 ..
 .
